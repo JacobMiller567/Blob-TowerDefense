@@ -1,0 +1,1 @@
+color = c_white // if anything is white it will be its default color values

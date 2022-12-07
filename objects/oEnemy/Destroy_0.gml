@@ -1,0 +1,1 @@
+global.coins += (5 + global.level); // 5 coins + wave level
