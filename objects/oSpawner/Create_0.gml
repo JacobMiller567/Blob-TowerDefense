@@ -8,11 +8,9 @@ hp = 0;
 spd = 1;
 spawn_amount_stored = spawn_amount;
 bonusRound = false;
-paused = false;
-paused_ID = -1;
 final_wave = true;
 
-cheats = false; // Default is false;
+cheats = true; // Default is false;
 
 audio_play_sound(musicMap1, 5, true); // all music from https://www.zapsplat.com
 

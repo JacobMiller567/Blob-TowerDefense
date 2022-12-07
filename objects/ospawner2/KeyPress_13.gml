@@ -1,4 +1,5 @@
 if (cheats == true) {
-	room_goto(rWinScreen); // Skip to win screen
+	global.level = 30;
+	//room_goto(rWinScreen); // Skip to win screen
 }
 	

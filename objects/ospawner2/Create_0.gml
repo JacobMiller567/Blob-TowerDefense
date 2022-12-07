@@ -7,11 +7,9 @@ hp = 0;
 spd = 1;
 spawn_amount_stored = spawn_amount; // hold original spawn amount
 bonusRound = false;
-paused = false;
-paused_ID = -1;
 final_wave = true;
 
-cheats = false; // Default is false
+cheats = true; // Default is false
 
 // Reset all global variables //
 global.coins = 225; // Amount of coins player starts with 
