@@ -1,4 +1,4 @@
-
+event_inherited();
 /*
 
 if (! shooting ) { // If shooting is false then return and skip the Step event
